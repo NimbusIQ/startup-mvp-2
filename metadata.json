@@ -1,0 +1,9 @@
+{
+  "name": "Nimbus IQ AI Deploy IQ ",
+  "description": "Sovereign AI Operating System for the PropTech Sector. B2B SaaS Infrastructure for Visual Inspection and Automated Workflows, leveraging the Google Cloud Startup Partner Program.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
